@@ -36,7 +36,7 @@ This project contains three primary functions that work together to process arra
 - **Original Names:** `["jesus", "is", "Coming", "soon"]`
 - **Modified Names:** `["jesus", "IS", "coming", "SOON"]`
 - **User Profiles Output:**
-
+ ```json
   [
     { "id": 1, "originalName": "jesus", "modifiedName": "jesus" },
     { "id": 2, "originalName": "is", "modifiedName": "IS" },
